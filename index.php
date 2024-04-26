@@ -29,7 +29,7 @@
       <div class="right-image">
         <img src="./images/dice.gif" alt="dice" width="250" />
       </div>
-      <h3>Choose Positive or Negative
+      <h3>Select Positive or Negative.
       </h3>
       <div class="page-content-php">
         <form action="answer.php" method="POST">
