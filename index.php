@@ -39,7 +39,7 @@
           </label>
           <br />
           <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="negative">
-            <input type="radio" id="negative" class="mdl-radio__button" name="options" value="1">
+            <input type="radio" id="negative" class="mdl-radio__button" name="options" value="0">
             <span class="mdl-radio__label">Negative</span>
           </label>
           <br />
